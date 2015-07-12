@@ -2,7 +2,7 @@
 	"version": "0.1",
 	"name": "OSS Scripts",
 	"description": "Open Source Organisation helping to shape the future of Open Source Softwares",
-	"launch_path": "/index.php",
+	"launch_path": "/scripts/index.html",
 	"icons": {
 		"16": "/scripts/images/appicon-16.png",
 		"48": "/scripts/images/appicon-48.png",
